@@ -1,16 +1,19 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/lucas-massignani-coelho-da-silva-a22218176/)
 
-<!--
-**LucasMassignani/LucasMassignani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="250" src = "https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif">
 
-Here are some ideas to get you started:
+## Sobre mim: 
+- 📚 Cursando Ciência da Computação.
+- 👨‍💻 Programador Web FullStack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Tecnologias:
+<img height="200" src = "https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif">
+
+### Trabalhando:
+- ReactJS
+- NodeJS
+
+### Estudando:
+- React Native
