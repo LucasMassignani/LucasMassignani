@@ -11,9 +11,6 @@
 ## Tecnologias:
 <img height="200" src = "https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif">
 
-### Trabalhando:
+### Experiência com:
 - ReactJS
 - NodeJS
-
-### Estudando:
-- React Native
